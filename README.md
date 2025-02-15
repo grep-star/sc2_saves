@@ -77,7 +77,7 @@ The protoss subcampaign do not have permanent upgrades to unlock so they can be 
     * [Ghosts Unlocked](./belly_of_the_beast_shatter_the_sky_ghosts.SC2Save)
     * [Spectres Unlocked](./belly_of_the_beast_shatter_the_sky_spectres.SC2Save)
 * All In
-    * [Ghosts Unlocked - post Belly of the Beast](./all_in_with_ghosts_post_belly_of_the_beast)
-    * [Ghosts Unlocked - post Shatter the Sky](./all_in_with_ghosts_post_shatter_the_sky)
-    * [Spectres Unlocked - post Belly of the Beast](./all_in_with_spectres_post_belly_of_the_beast)
-    * [Spectres Unlocked - post Shatter the Sky](./all_in_with_spectres_post_shatter_the_sky)
+    * [Ghosts Unlocked - post Belly of the Beast](./all_in_with_ghosts_post_belly_of_the_beast.SC2Save)
+    * [Ghosts Unlocked - post Shatter the Sky](./all_in_with_ghosts_post_shatter_the_sky.SC2Save)
+    * [Spectres Unlocked - post Belly of the Beast](./all_in_with_spectres_post_belly_of_the_beast.SC2Save)
+    * [Spectres Unlocked - post Shatter the Sky](./all_in_with_spectres_post_shatter_the_sky.SC2Save)
